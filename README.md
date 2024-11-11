@@ -16,6 +16,8 @@ i dont know what i should put here heres my github stats
   <img src="https://github-readme-stats.vercel.app/api?username=n00b69&show_icons=true" />
 </picture>
 
+![](https://komarev.com/ghpvc/?username=n00b69)
+
 <!--
 **n00b69/n00b69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
