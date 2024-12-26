@@ -2,7 +2,7 @@ hi my name is the sog
 
 i dont know what i should put here heres my github stats
 
-
+also I am NOT a developer, the files in my guides have been provided by other users, if you have questions you should ask the maintainers
 
 <picture>
   <source
